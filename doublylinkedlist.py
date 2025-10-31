@@ -6,6 +6,7 @@ Date: 2025-10-31
 
 
 class Node:
+
     def __init__(self, data):
         self.data = data
         self.next = None
